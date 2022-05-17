@@ -16,7 +16,7 @@ Projeto desenvolvido com o intuito de desenvolver minhas habilidades no framewor
 - `Thymeleaf`
 - `H2 database`
 - `Maven`
-- Ìde sts`
+- `Ide sts`
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/luanraffaell/student-management-system).

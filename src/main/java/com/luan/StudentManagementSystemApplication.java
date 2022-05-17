@@ -22,9 +22,9 @@ public class StudentManagementSystemApplication implements CommandLineRunner {
 	
 	@Override
 	public void run(String... args) throws Exception {
-		Student student1 = new Student("Luan", "Rafael", "luanraffaell@hotmail.com");
-		Student student2 = new Student("Cibele", "Azeredo", "cibele@hotmail.com");
-		Student student3 = new Student("Raimunda", "Macedo", "rai@hotmail.com");
+		Student student1 = new Student("Luan", "Alves", "luan@hotmail.com");
+		Student student2 = new Student("Maria", "Joana", "mj@hotmail.com");
+		Student student3 = new Student("Estefane", "Macedo", "estm@hotmail.com");
 		studentRepository.saveAll(Arrays.asList(student1,student2,student3));
 		
 	}
